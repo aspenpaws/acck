@@ -1,0 +1,364 @@
+body {
+background: url('http://i.imgur.com/G2rLLHc.jpg') no-repeat center center fixed;
+background-size: cover;
+color: #FFFFFF !important;
+font-family: 'Century Gothic' !important;
+}
+
+.col-md-9.col-xs-12 {
+background: #17192A !important;
+border: 1px solid #000000 !important;
+border-top: none !important;
+border-right: 1px solid #000000 !important;
+border-bottom :none !important;
+font-family: 'Century Gothic' !important;
+}
+
+div.container.main {
+background: #181C3A !important;
+border: 1px solid #000000 !important;
+border-left: none !important;
+box-shadow: none !important;
+font-family: 'Century Gothic' !important;
+}
+
+.navbar {
+background: #04071D !important;
+border: none !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+box-shadow: none !important;
+font-family: 'Century Gothic' !important;
+}
+
+.navbar li a {
+color: #FFFFFF !important;
+}
+
+.navbar li a:hover {
+background: #161B42 !important;
+}
+
+.breadcrumb {
+background: #04071D !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+font-family: 'Century Gothic' !important;
+}
+
+.feature {
+background: #04071D !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+font-family: 'Century Gothic' !important;
+}
+
+.topbar {
+background: #04071D !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+border-top: none !important;
+border-bottom: 1px solid #000000 !important;
+font-family: 'Century Gothic' !important;
+}
+
+.panel {
+background: #333858 !important;
+border: 1px solid #000000 !important;
+box-shadow: none !important;
+font-family: 'Century Gothic' !important;
+}
+
+.chat_light {
+background: #333858 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+}
+
+.chat_dark {
+background: #252841 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+}
+
+h1 {
+text-align: center !important;
+color: #FFFFFF !important;
+font-family: 'Century Gothic' !important;
+}
+
+h3 {
+text-align: center !important;
+color: #FFFFFF !important;
+font-family: 'Century Gothic' !important;
+}
+
+.top {
+background: #04071D !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+box-shadow: none !important;
+}
+
+th {
+background: #04071D !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+box-shadow: none !important;
+}
+
+.bottom {
+background: #04071D !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+box-shadow: none !important;
+}
+
+.left {
+background: #04071D !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+box-shadow: none !important;
+}
+
+td {
+background: #252841 !important;
+color: #FFFFFF !important;
+border: none !important;
+font-family: 'Century Gothic' !important;
+box-shadow: none !important;
+border-left: 1px solid #252841 !important;
+border-bottom: 1px solid #252841 !important;
+}
+
+.right_cub {
+background: #333858 !important;
+font-family: 'Century Gothic' !important;
+border-left: 1px solid #333858 !important;
+border-bottom: 1px solid #333858 !important;
+}
+
+.featured-lion {
+background: #04071D !important;
+color: #FFFFFF !important;
+font-family: 'Century Gothic' !important;
+}
+
+a:link {
+color: #FFFFFF !important;
+font-family: 'Century Gothic' !important;
+}
+
+a:visited {
+color: #FFFFFF !important;
+font-family: 'Century Gothic' !important;
+}
+
+a:hover {
+color: #5A5D73 !important;
+font-family: 'Century Gothic' !important;
+}
+
+.col-md-4.col-xs-6 a:link {
+color: #000000 !important;
+}
+
+.col-md-4.col-xs-6 a:visited {
+color: #000000 !important;
+}
+
+.col-md-4.col-xs-6 a:hover {
+color: #17192A !important;
+}
+
+.col-md-3.col-xs-4 a:link {
+color: #000000 !important;
+}
+
+.col-md-3.col-xs-4 a:visited {
+color: #000000 !important;
+}
+
+.col-md-3.col-xs-4 a:hover {
+color: #17192A !important;
+}
+
+.alert-danger {
+background: #04071D !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+}
+
+.alert-success {
+background: #04071D !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+}
+
+.attack-won {
+background: #04071D !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+}
+
+.attack-lost {
+background: #04071D !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+}
+
+input[type="button"] {
+background: #252841 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+font-family: 'Century Gothic' !important;
+}
+
+input[type="submit"] {
+background: #252841 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"] {
+background: #333858 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"] {
+background: #333858 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea {
+background: #333858 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select {
+background: #333858 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="button"]:hover {
+background: #333858 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="submit"]:hover {
+background: #333858 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"]:focus {
+background: #333858 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"]:focus {
+background: #333858 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea:focus {
+background: #333858 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select:focus {
+background: #333858 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+.progress {
+background: #04071D !important;
+border: 1px solid #000000 !important;
+}
+
+.progress div {
+color: #FFFFFF !important;
+font-family: 'Century Gothic' !important;
+}
+
+.progress-bar-warning {
+background: #181C3A !important;
+}
+
+.progress-bar-danger {
+background: #181C3A !important;
+}
+
+.progress-bar-success {
+background: #181C3A !important;
+}
+
+.progress-bar {
+background: #181C3A !important;
+}
